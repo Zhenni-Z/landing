@@ -1,0 +1,9 @@
+.btn-primary {
+  background-color: #1CDD87;
+  color: white;
+  padding: 16px 36px;
+  border-radius: 50px;
+  display: inline-block;
+  /* margin from p dodesnt consider button, coz a tag has display
+  inline, and inline doesnt allow any height or margin*/
+}

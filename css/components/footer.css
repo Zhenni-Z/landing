@@ -1,0 +1,20 @@
+.footer {
+  background-color: #2C2B2B;
+  text-align: center;
+  padding: 16px;
+
+}
+
+.footer a {
+  font-size: 30px;
+  color: #1CDD87;
+  margin: 0px 5px;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.footer .fa-solid {
+  color: red;
+}
